@@ -1,0 +1,6 @@
+{
+  "name": "GlowUp AI",
+  "description": "Transform your photos with realistic luxury style, anime stylization, or fitness physique enhancements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
